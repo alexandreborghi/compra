@@ -1,3 +1,1 @@
-# app
-
-A new Flutter project.
+Um app de lista de compras feito em flutter
